@@ -1,0 +1,26 @@
+{
+  "name": "squab",
+  "version": "0.0.1",
+  "description": "a basic Promise library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ning-github/squab.git"
+  },
+  "keywords": [
+    "Promise",
+    "resolve",
+    "reject",
+    "light",
+    "lightweight"
+  ],
+  "author": "Ning Xia <nxiamail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ning-github/squab/issues"
+  },
+  "homepage": "https://github.com/ning-github/squab#readme"
+}
