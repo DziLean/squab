@@ -1,4 +1,4 @@
-# squab [![Build Status](https://travis-ci.org/ning-github/squab.svg?branch=master)](https://travis-ci.org/ning-github/squab)
+# squab [![Build Status](https://travis-ci.org/ning-github/squab.svg?branch=master)](https://travis-ci.org/ning-github/squab) [![npm version](https://badge.fury.io/js/squab.svg)](https://badge.fury.io/js/squab)
 a basic Promise library
 
 ####Installation
