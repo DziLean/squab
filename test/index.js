@@ -1,7 +1,7 @@
 var should = require("chai").should();
 var Promise = require("../lib/main.js");
 
-describe("Basic functionality", function(){
+describe("Setup", function(){
     describe("Promise instantiation", function(){
         it("should have a .then method", function(){
             var promise = new Promise(function(resolve, reject){
