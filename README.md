@@ -1,4 +1,4 @@
-# squab
+# squab [![Build Status](https://travis-ci.org/ning-github/squab.svg?branch=master)](https://travis-ci.org/ning-github/squab)
 a basic Promise library
 
 ####Installation
